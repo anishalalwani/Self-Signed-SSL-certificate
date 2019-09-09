@@ -7,3 +7,5 @@ Why SSL exists?
 2. Identification- Making sure the computer you are speaking to is the one you trust.
 
 SSL certificates are a tool that provides website protection and guarantees the confidentiality of data transmitted electronically. Full security is a result of the use of encrypted communication between computers. SSL certificates are registered on a particular domain name that contains information about the domain owner, his address, etc. This data is cryptographically protected and cannot be independently changed.
+
+**References:** https://www.digitalocean.com/community/tutorials/how-to-create-a-self-signed-ssl-certificate-for-apache-in-ubuntu-16-04
