@@ -1,4 +1,4 @@
-# Self-Signed-SSL-certificate
+# Self Signed SSL certificate
 
 SSL (Secure Sockets Layer) is a standard security technology for establishing an encrypted link between a server and a client—typically a web server (website) and a browser, or a mail server and a mail client. SSL allows sensitive information such as credit card numbers, social security numbers, and login credentials to be transmitted securely. 
 
